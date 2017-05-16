@@ -10,7 +10,16 @@
 			<img id="logo" src="#"/>
 			<img id="banner" src="#"/>	
 		</div>
-		<div class="menubar">This is menu</div>
+		<div class="menubar">
+			<ul id="menu">
+				<li><a href="#">Home</li>
+				<li><a href="#">All Products</li>
+				<li><a href="#">My Account</li>
+				<li><a href="#">Sign Up</li>
+				<li><a href="#">Shopping Cart</li>
+				<li><a href="#">Contact Us</li>
+			</ul>
+		</div>
 		<div class="content-wrapper">
 		
 			<div id="sidebar">This is sidebar</div>
