@@ -12,12 +12,12 @@
 		</div>
 		<div class="menubar">
 			<ul id="menu">
-				<li><a href="#">Home</li>
-				<li><a href="#">All Products</li>
-				<li><a href="#">My Account</li>
-				<li><a href="#">Sign Up</li>
-				<li><a href="#">Shopping Cart</li>
-				<li><a href="#">Contact Us</li>
+				<li><a href="#">Home</a></li>
+				<li><a href="#">All Products</a></li>
+				<li><a href="#">My Account</a></li>
+				<li><a href="#">Sign Up</a></li>
+				<li><a href="#">Shopping Cart</a></li>
+				<li><a href="#">Contact Us</a></li>
 			</ul>
 		</div>
 		<div class="content-wrapper">
