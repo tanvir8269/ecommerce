@@ -29,10 +29,36 @@
 		</div>
 		<div class="content-wrapper">
 		
-			<div id="sidebar">This is sidebar</div>
+			<div id="sidebar">
+				<div id="sidebar_title">Catagories</div>
+				
+				<ul id="cats">
+					<li><a href="#">Laptops</a></li>
+					<li><a href="#">Computers</a></li>
+					<li><a href="#">Mobiles</a></li>
+					<li><a href="#">Cameras</a></li>
+					<li><a href="#">iPads</a></li>
+					<li><a href="#">Tablets</a></li>
+					<li><a href="#">iPods</a></li>
+				</ul>
+				
+				<div id="sidebar_title">Brands</div>
+				
+				<ul id="cats">
+					<li><a href="#">HP</a></li>
+					<li><a href="#">DELL</a></li>
+					<li><a href="#">Motorola</a></li>
+					<li><a href="#">Sony</a></li>
+					<li><a href="#">LG</a></li>
+					<li><a href="#">Apple</a></li>
+					<li><a href="#">Samsung</a></li>
+				</ul>
+				
+			</div>
 		
 			<div id="content_area">This is content</div>
 		</div>
+		
 		<div id="footer">This is footer</div>
 	</div>
 </body>
