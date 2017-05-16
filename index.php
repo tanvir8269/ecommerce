@@ -1,4 +1,7 @@
 <!DOCTYPE>
+<?php
+	include("functions/functions.php");
+?>
 <html>
 <head>
 	<title>My Online Shop</title>
@@ -33,25 +36,14 @@
 				<div id="sidebar_title">Catagories</div>
 				
 				<ul id="cats">
-					<li><a href="#">Laptops</a></li>
-					<li><a href="#">Computers</a></li>
-					<li><a href="#">Mobiles</a></li>
-					<li><a href="#">Cameras</a></li>
-					<li><a href="#">iPads</a></li>
-					<li><a href="#">Tablets</a></li>
-					<li><a href="#">iPods</a></li>
+					<?php getCats(); ?>
 				</ul>
 				
 				<div id="sidebar_title">Brands</div>
 				
 				<ul id="cats">
-					<li><a href="#">HP</a></li>
-					<li><a href="#">DELL</a></li>
-					<li><a href="#">Motorola</a></li>
-					<li><a href="#">Sony</a></li>
-					<li><a href="#">LG</a></li>
-					<li><a href="#">Apple</a></li>
-					<li><a href="#">Samsung</a></li>
+					
+					<?php getBrands();?>
 				</ul>
 				
 			</div>
