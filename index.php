@@ -51,6 +51,8 @@
 			<div id="content_area">This is content</div>
 		</div>
 		
-		<div id="footer">This is footer</div>
+		<div id="footer">
+			<h2 style="text-align:center;padding-top:30px;">&copy; 2017 by www.totocorp.com</h2>
+		</div>
 	</div>
 </body>
